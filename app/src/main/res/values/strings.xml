@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HomeAutomation</string>
+    <string name="bulb_1_off_status">Bulb 1 is OFF</string>
+    <string name="bulb_2_off_status">Bulb 2 is OFF</string>
+    <string name="bulb_1_on_status">Bulb 1 is ON</string>
+    <string name="bulb_2_on_status">Bulb 2 is ON</string>
+    <string name="turn_on">turn on</string>
+    <string name="turn_off">turn off</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>
