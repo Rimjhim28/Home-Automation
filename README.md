@@ -1,6 +1,6 @@
 # Home-Automation
 
-The project helps in controll electronic devices in one's home through an android application.
+The project helps in control electronic devices in one's home through an android application.
 
 ## Working
 
